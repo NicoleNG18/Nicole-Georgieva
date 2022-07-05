@@ -1,5 +1,11 @@
 Hi, I am Nicole Georgieva
 
+![GitHub User's stars](https://img.shields.io/github/stars/NicoleNG18?style=social)
+
+![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)
 
 About me
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
